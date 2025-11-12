@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)
+![Version](https://img.shields.io/badge/version-1.1.2-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-Proprietary-red.svg)
 
@@ -31,23 +31,52 @@ Ultra Downloader is a modern, feature-rich video downloading application designe
   - Support for various formats
   - Automatic format selection
 
-- 📚 **Download History**
-  - Track all your downloads
-  - Easy access to previously downloaded content
+- 📚 **Enhanced Download History**
+  - Modern card-based layout with thumbnails
+  - Visual status indicators (Available/Deleted)
+  - Platform badges for easy identification
+  - Quick actions: Open folder, Play video, Remove from history
+  - Track all your downloads with detailed information
 
 - 🎨 **Modern UI**
   - Beautiful Material Design interface
   - Dark and Light theme support
   - Smooth and responsive experience
+  - Improved update notifications
 
 - 🔄 **Auto-Updates**
   - Automatic update notifications
   - Seamless update process
+  - Enhanced update UI
 
 - 💻 **User-Friendly**
   - Simple and intuitive interface
   - One-click downloads
   - Fast and reliable
+
+## 🆕 What's New in Version 1.1.2
+
+### ✨ Major Improvements
+
+- **🎨 Redesigned Download History**
+  - Completely new modern card-based layout
+  - Video thumbnails for each download
+  - Platform badges (YouTube, TikTok, Instagram, Twitter)
+  - Visual file status indicators (green for available, red for deleted)
+  - Quick action buttons: Open folder, Play video, Delete
+  - Hover animations and improved visual feedback
+  - Empty state message when history is empty
+
+- **🔔 Enhanced Update Notifications**
+  - Improved update notification design
+  - Better visual hierarchy and messaging
+  - More intuitive update process
+
+### 🐛 Bug Fixes & Improvements
+
+- Fixed various UI inconsistencies
+- Improved overall user experience
+- Better error handling
 
 ## 🖼️ Screenshots
 
