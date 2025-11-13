@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-1.1.2-blue.svg)
+![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-Proprietary-red.svg)
 
@@ -54,29 +54,55 @@ Ultra Downloader is a modern, feature-rich video downloading application designe
   - One-click downloads
   - Fast and reliable
 
-## 🆕 What's New in Version 1.1.2
+## 🆕 What's New in Version 2.0.0
+
+### 🎉 Major Update - Complete Redesign!
+
+**Version 2.0.0 represents a massive overhaul of Ultra Downloader!** This is a major update that brings significant improvements across the entire application.
 
 ### ✨ Major Improvements
 
-- **🎨 Redesigned Download History**
-  - Completely new modern card-based layout
-  - Video thumbnails for each download
-  - Platform badges (YouTube, TikTok, Instagram, Twitter)
-  - Visual file status indicators (green for available, red for deleted)
-  - Quick action buttons: Open folder, Play video, Delete
-  - Hover animations and improved visual feedback
-  - Empty state message when history is empty
+- **🎨 Complete GUI Redesign**
+  - Entire user interface has been completely redesigned from the ground up
+  - Modern, sleek, and intuitive Material Design interface
+  - Improved visual hierarchy and user experience
+  - Enhanced color schemes and typography
+  - Better spacing and layout throughout the application
+  - Smoother animations and transitions
 
-- **🔔 Enhanced Update Notifications**
-  - Improved update notification design
+- **🚀 Complete Application Overhaul**
+  - Core application architecture has been improved
+  - Better performance and stability
+  - Enhanced download engine with improved reliability
+  - Optimized resource usage
+  - Improved error handling and recovery
+
+- **📚 Enhanced Download History**
+  - Modern card-based layout with thumbnails
+  - Visual status indicators (Available/Deleted)
+  - Platform badges for easy identification
+  - Quick actions: Open folder, Play video, Remove from history
+  - Track all your downloads with detailed information
+
+- **🔄 Improved Auto-Update System**
+  - Enhanced update notification design
   - Better visual hierarchy and messaging
   - More intuitive update process
+  - Automatic cleanup of old files during updates
+  - Improved update reliability
+
+- **💾 Better File Management**
+  - Improved handling of .NET runtime files
+  - Cleaner installation and update process
+  - Better organization of application files
 
 ### 🐛 Bug Fixes & Improvements
 
 - Fixed various UI inconsistencies
 - Improved overall user experience
-- Better error handling
+- Better error handling and recovery
+- Enhanced stability and performance
+- Improved compatibility with latest Windows versions
 
 ## 🖼️ Screenshots
 
